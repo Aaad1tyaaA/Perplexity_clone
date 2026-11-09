@@ -1,5 +1,7 @@
 # Sift — a Perplexity-style answer engine
 
+**Live: [sift-aditya.vercel.app](https://sift-aditya.vercel.app)**
+
 Ask a question. Sift searches the web, reads the pages, and streams back an answer where every claim is cited to its source.
 
 Built with FastAPI, the Tavily search API and Google Gemini, with a plain HTML/JS frontend. Deployed on Vercel.
